@@ -10,7 +10,7 @@
 
 - 👩🏻‍💻 All of my projects are available at https://github.com/GauravKhule
 
-- 📫 How to reach me **gauravkhule0901@gmail.com**
+- 📫 How to reach me **gaurav.khule.07@gmail.com**
 
 - ⚡ Fun fact **I have a secret talent for turning coffee into code.**
 
