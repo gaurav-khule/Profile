@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gaurav.khule.07@gmail.com**
 
-- ⚡ Fun fact **"I'm fluent in sarcasm, Python, and JavaScript – in descending order of readability."**
+- ⚡ Fun fact **"I have a sixth sense for detecting missing semicolons... from 50 yards away."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
