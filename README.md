@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Khule</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-
 <img align="right" alt="coding" widht="400" src="https://github.com/gaurav-khule/Profile/blob/main/thoughtworks-gif_dribbble.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/gaurav-khule](https://github.com/gaurav-khule)
